@@ -1,1 +1,1 @@
-"build-and-stage-next-gen//disablw"
+"build-and-stage-next-gen"
