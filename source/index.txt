@@ -1,8 +1,8 @@
 :orphan:
 
-=============================
-MongoDB Drivers and Ecosystem
-=============================
+============================
+MongoDB Drivers and Ecosyste
+============================
 
 Hello The MongoDB Ecosystem contains documentation for the drivers,
 frameworks, tools, and platform services that work with MongoDB. For
