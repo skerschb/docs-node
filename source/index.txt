@@ -4,7 +4,7 @@ MongoDB Node Driver
 
 .. default-domain:: mongodb
 
-Sue's version The MongoDB Node driver documentation contains documentation specific to
+Sue's version of this site. The MongoDB Node driver documentation contains documentation specific to
 the Node driver. For the main MongoDB documentation, see the
 :manual:`MongoDB Manual </>`.
 
