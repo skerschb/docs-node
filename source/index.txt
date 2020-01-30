@@ -4,7 +4,7 @@ MongoDB Node Driver
 
 .. default-domain:: mongodb
 
-Sue's test test version of this AWESOME site HELOOOOO. The MongoDB Node driver documentation contains documentation specific to
+TESTING NODE. The MongoDB Node driver documentation contains documentation specific to
 the Node driver. For the main MongoDB documentation, see the
 :manual:`MongoDB Manual </>`.
 
