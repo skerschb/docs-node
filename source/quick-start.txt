@@ -1,6 +1,6 @@
-===========
-Quick Start
-===========
+==========
+Qick Start
+==========
 
 
 .. default-domain:: mongodb
