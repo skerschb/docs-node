@@ -108,8 +108,7 @@ html_theme_options = {
     'version_selector':  get_versions(conf),
     'active_branches': conf.version.active,
     'stable': conf.version.stable,
-    'sitename': sconf.theme.sitename,
-    'nav_excluded': sconf.theme.nav_excluded,
+    'sitename': sconf.theme.sitename
 }
 
 html_sidebars = sconf.sidebars
