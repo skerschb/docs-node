@@ -1,5 +1,5 @@
 ========================
-HELLOMongoDB Node Driver
+TESTOMongoDB Node Driver
 ========================
 
 .. default-domain:: mongodb
