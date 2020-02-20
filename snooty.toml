@@ -1,4 +1,5 @@
 name = "node"
+title = "test"
 
 [constants]
 version = 4.0
