@@ -1,6 +1,6 @@
-==================
-ongoDB Node Driver
-==================
+=================
+ngoDB Node Driver
+=================
 
 .. default-domain:: mongodb
 
